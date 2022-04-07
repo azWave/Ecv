@@ -1,11 +1,11 @@
 <template>
   <div id="container">
     <header>
-      <div>
-        <nuxt-link  class="button" to="/">Accueil</nuxt-link>
-        <nuxt-link class="button" to="/experience">Experiences</nuxt-link>
-        <nuxt-link class="button" to="/projets">Projets</nuxt-link>
-        <nuxt-link class="button" to="/contact">Contact</nuxt-link>
+      <div class="head">
+        <nuxt-link  to="/">Accueil</nuxt-link>
+        <nuxt-link  to="/experience">Experiences</nuxt-link>
+        <nuxt-link  to="/projets">Projets</nuxt-link>
+        <nuxt-link  to="/contact">Contact</nuxt-link>
       </div>
     </header>
     <Nuxt />
@@ -78,6 +78,9 @@
     padding-left: 12%;
     height: 105vh ;
     z-index: -2;
+  }
+  .head{
+    padding-left: 12%;
   }
 
   .content .text{
