@@ -1,8 +1,8 @@
 <template>
   <div id="container">
     <header>
-      <div class="head">
-        <nuxt-link  to="/">Accueil</nuxt-link>
+      <div >
+        <nuxt-link  class="first" to="/">Accueil</nuxt-link>
         <nuxt-link  to="/experience">Experiences</nuxt-link>
         <nuxt-link  to="/projets">Projets</nuxt-link>
         <nuxt-link  to="/contact">Contact</nuxt-link>
@@ -79,7 +79,7 @@
     height: 105vh ;
     z-index: -2;
   }
-  .head{
+  .first{
     padding-left: 12%;
   }
 
