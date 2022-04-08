@@ -38,12 +38,12 @@ export default {
   border: 5px solid #73A1F8;
   top: 20px;
   left: 20px;
-  width: 50%;
-  height: 95%;
+  width: 450px;
+  height: 450px;
   z-index: -1;
 }
 
 .image{
-    width: 50%;
+    width: 450px;
 }
 </style>
