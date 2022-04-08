@@ -3,8 +3,7 @@
         <div>
             <article-image :src="src" :alt="alt" ></article-image>
         </div>
-        <div class="text">
-            <nuxt-content :document="page" />
+          <div class="text" v-html="content">
         </div>
     </div>
 </template>
@@ -18,7 +17,7 @@ export default {
     return {page}
   },
   props: {
-    md:{
+    content:{
         type: String,
         required: true,
     },
@@ -37,6 +36,7 @@ export default {
 </script>
 
 <style>
+
 .cadres{
     display:flex;
     text-align: center;
@@ -55,7 +55,8 @@ export default {
 }
 
 .cadre .text{
-    text-align: center;
+  text-align: center;
+  width: 100%;
 }
 
 

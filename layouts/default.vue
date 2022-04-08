@@ -76,6 +76,7 @@
   .content{
     padding-right: 12%;
     padding-left: 12%;
+    padding-bottom: 5%;
     height: 105vh ;
     z-index: -2;
   }
@@ -112,24 +113,4 @@
     color: #73A1F8;
   }
 
-  .cadres{
-    display:flex;
-    text-align: center;
-    width: 100%;
-    padding-top:15px;
-}
-.cadre{
-    color: black;
-    width: 100%;
-    background-color: white;
-    margin-right: 5%;
-    margin-left: 5%;
-    border-radius: 10% ;
-    overflow: hidden;
-    box-shadow: 10px  10px 10px #73A1F8 ;
-}
-
-.cadre .text{
-    text-align: center;
-}
 </style>
