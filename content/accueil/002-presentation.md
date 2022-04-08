@@ -7,7 +7,7 @@ title: Présentation
 # Me concernant
 
 <div style="display:flex;">
-<image-border src="IMG_6859.jpeg" alt="profil"></image-border>
+<image-border src="profil.jpg" alt="profil"></image-border>
 <div class="text">
 <h2 class="inline">Je m'appelle </h2><h2 class="color inline">Bourré Maxime</h2>
 
