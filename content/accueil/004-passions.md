@@ -8,31 +8,11 @@ title: Passions
 
 <div class="cadres">
 
-<div class="cadre">
-<article-image src="basketball.jpg" alt="photo de basket" ></article-image>
-<div>
+<cadre content="<h2>Le basket</h2>" src="basketball.jpg" alt="photo de basket" ></cadre>
 
-## Le basket
+<cadre content="<h2>La photographie</h2>" src="IMG_3765.jpg" alt="une cascade"></cadre>
 
-</div>
-</div>
-
-<div class="cadre">
-<article-image src="IMG_3765.jpg" alt="une cascade"></article-image>
-<div>
-
-## La photographie
-
-</div>
-</div>
-<div class="cadre">
-<article-image src="cuisine.jpg" alt="un bon plats"></article-image>
-<div>
-
-## La cuisine
-
-</div>
-</div>
+<cadre content="<h2>La cuisine</h2>" src="cuisine.jpg" alt="un bon plats"></cadre>
 
 </div>
 </div>
