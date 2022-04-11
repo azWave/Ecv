@@ -47,8 +47,8 @@ export default {
     color: black;
     width: 100%;
     background-color: white;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 2%;
+    margin-left: 2%;
     border-radius: 10% ;
     overflow: hidden;
     box-shadow: 10px  10px 10px #73A1F8 ;
