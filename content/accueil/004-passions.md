@@ -8,7 +8,7 @@ title: Passions
 
 <div class="cadres">
 
-<cadre content="<h2>Le basket</h2>" src="basketball.jpg" alt="photo de basket" ></cadre>
+<!-- <cadre content="<h2>Le basket</h2>" src="basketball.jpg" alt="photo de basket" ></cadre> -->
 
 <cadre content="<h2>La photographie</h2>" src="IMG_3765.jpg" alt="une cascade"></cadre>
 
