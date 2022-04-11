@@ -14,5 +14,7 @@ title: Passions
 
 <cadre content="<h2>La cuisine</h2>" src="cuisine.jpg" alt="un bon plats"></cadre>
 
+<cadre content="<h2>L'impression 3D</h2>" src="3D.jpg" alt="3D"></cadre>
+
 </div>
 </div>
